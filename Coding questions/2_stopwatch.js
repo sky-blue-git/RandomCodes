@@ -1,3 +1,4 @@
+// Stopwatch that shows time in 00:00:00 format.
 import { Text, SafeAreaView, StyleSheet, View, Button } from 'react-native';
 import { useState, useEffect } from 'react';
 

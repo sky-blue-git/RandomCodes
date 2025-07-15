@@ -1,4 +1,4 @@
-// timer from 60 to 0
+// Timer from 60 to 0.
 import { SafeAreaView, View } from 'react-native';
 import { useState, useEffect } from 'react';
 
